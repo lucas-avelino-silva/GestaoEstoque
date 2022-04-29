@@ -1,6 +1,10 @@
 using AppMVC.Data;
+using Businiss.Interface;
+using Businiss.Model;
+using DataBase.Context;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +12,11 @@ var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
+builder.Services.AddDbContext<Contexto>(options =>
+    options.UseSqlServer(connectionString));
+builder.Services.AddScoped<IEndereco, Endereco>();
+builder.Services.AddScoped<IFornecedor, Fornecedor>();
+builder.Services.AddScoped<IProduto, Produto>();
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)

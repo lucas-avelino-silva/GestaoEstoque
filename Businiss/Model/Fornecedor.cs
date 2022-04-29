@@ -11,6 +11,7 @@ namespace Businiss.Model
         public string Nome { get; set; }
         public string CNPJ { get; set; }
         public Endereco Endereco { get; set; }
+        public string Telefone { get; set; }
         public bool Ativo { get; set; }
 
         /* EF Relations */

@@ -1,0 +1,8 @@
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\AppMVC\obj\Debug\net6.0\AppMVC.csproj.AssemblyReference.cache
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\AppMVC\obj\Debug\net6.0\AppMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\AppMVC\obj\Debug\net6.0\AppMVC.AssemblyInfoInputs.cache
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\AppMVC\obj\Debug\net6.0\AppMVC.AssemblyInfo.cs
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\AppMVC\obj\Debug\net6.0\AppMVC.csproj.CoreCompileInputs.cache
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\AppMVC\obj\Debug\net6.0\AppMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\AppMVC\obj\Debug\net6.0\AppMVC.RazorAssemblyInfo.cache
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\AppMVC\obj\Debug\net6.0\AppMVC.RazorAssemblyInfo.cs

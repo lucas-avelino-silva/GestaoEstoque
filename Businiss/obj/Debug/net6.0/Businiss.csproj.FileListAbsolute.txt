@@ -1,0 +1,12 @@
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\Businiss\bin\Debug\net6.0\Businiss.deps.json
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\Businiss\bin\Debug\net6.0\Businiss.dll
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\Businiss\bin\Debug\net6.0\Businiss.pdb
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\Businiss\obj\Debug\net6.0\Businiss.csproj.AssemblyReference.cache
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\Businiss\obj\Debug\net6.0\Businiss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\Businiss\obj\Debug\net6.0\Businiss.AssemblyInfoInputs.cache
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\Businiss\obj\Debug\net6.0\Businiss.AssemblyInfo.cs
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\Businiss\obj\Debug\net6.0\Businiss.csproj.CoreCompileInputs.cache
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\Businiss\obj\Debug\net6.0\Businiss.dll
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\Businiss\obj\Debug\net6.0\refint\Businiss.dll
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\Businiss\obj\Debug\net6.0\Businiss.pdb
+C:\Users\lasilva\Source\Repos\lucas-avelino-silva\GestaoEstoque\Businiss\obj\Debug\net6.0\ref\Businiss.dll
