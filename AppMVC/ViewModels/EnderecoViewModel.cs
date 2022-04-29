@@ -5,6 +5,7 @@ namespace AppMVC.ViewModels
 {
     public class EnderecoViewModel
     {
+        public string TirarDepois { get; set; }
         [Key]
         public Guid Id { get; set; }
         [HiddenInput]
