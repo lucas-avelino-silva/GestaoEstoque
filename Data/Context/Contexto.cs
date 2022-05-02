@@ -12,8 +12,8 @@ namespace DataBase.Context
     {
         public Contexto(DbContextOptions option): base(option) { }
 
-        DbSet<Endereco> Enderecos { get; set; }
-        DbSet<Fornecedor> Fornecedores { get; set; }
-        DbSet<Produto> Produtos { get; set; }
+        public DbSet<Endereco> Enderecos { get; set; }
+        public DbSet<Fornecedor> Fornecedores { get; set; }
+        public DbSet<Produto> Produtos { get; set; }
     }
 }
